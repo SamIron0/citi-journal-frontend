@@ -7,8 +7,8 @@ Though this application is still under active development, it boasts an impressi
 
 Choose an initial location on the map.
 ![maps](./map1.png)
-![maps](./map2)
+![maps](./map2.png)
 
 Narrow in on specific location
-![maps](./map3) 
+![maps](./map3.png) 
 
